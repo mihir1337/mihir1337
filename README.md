@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-[![Facebook](https://img.shields.io/badge/-@mihir1337-%3b5998?style=flat-square&logo=facebook&logoColor=ffffff&labelColor=%3b5998&color=%ffffff)](https://facebook.com/mihir1337)
+[![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/mihir1337)
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sabberhossain/)
 [![Instagram](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mihir_mahamud/)
 [![Twitter](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mihir_mahamud)

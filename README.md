@@ -1,5 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Sabber Hossain ( _front-end developer_ )
 
+<img src="https://workingnation.com/wp-content/uploads/2018/04/shutterstock_459867970.jpg" width="100%" height="600">
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/mihir1337)

@@ -1,6 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Sabber Hossain ( _WordPress Theme developer_ )
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+![mihir1337](https://user-images.githubusercontent.com/26067204/130477650-ff57565c-9651-43e1-b72c-3157184ebcbb.jpg)
 
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/mihir1337)
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sabberhossain/)

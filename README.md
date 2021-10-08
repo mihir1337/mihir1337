@@ -1,6 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Sabber Hossain ( _WordPress Theme developer_ )
 ![mihir1337](https://user-images.githubusercontent.com/26067204/130477650-ff57565c-9651-43e1-b72c-3157184ebcbb.jpg)
 
+<a href="https://app.daily.dev/mihir1337"><img src="https://api.daily.dev/devcards/05b1cf3bd59649e3b36adbff71df22c3.png?r=j68" width="400" alt="Sabber Hossain's Dev Card"/></a>
+
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/mihir1337)
 [![Linkedin](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sabberhossain/)
 [![Instagram](https://img.shields.io/badge/-@mihir1337-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mihir_mahamud/)
